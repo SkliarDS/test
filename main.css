@@ -3,3 +3,13 @@ header {
     justify-content: center;
     align-items: center;
 }
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section {
+    width: 500px;
+    height: 500px;
+    background: red;
+}
